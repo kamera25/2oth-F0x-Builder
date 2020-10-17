@@ -10,7 +10,7 @@ bl_info = {
     "location": "F3 > 2oFox",
     "description": "Add like a 2oth F0x Model.",
     "warning": "",
-    "doc_url": "https://kamera25.hatenadiary.jp/f0xdoc",
+    "doc_url": "https://kamera25.hatenadiary.jp/entry/f0xdoc",
     "category": "Add Mesh",
 }
 
